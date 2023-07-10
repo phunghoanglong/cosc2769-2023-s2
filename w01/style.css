@@ -1,0 +1,14 @@
+.busy {
+  background-color: pink;
+  border-left: 3px solid red !important;
+}
+
+.col-single-width {
+  width: 9%;
+}
+
+.col-double-width {
+  width: 13%;
+}
+
+
